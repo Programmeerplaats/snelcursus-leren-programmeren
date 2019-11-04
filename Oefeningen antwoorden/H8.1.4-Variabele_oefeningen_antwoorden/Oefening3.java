@@ -4,7 +4,7 @@ public class MyClass {
 		String naam = "Bas";    
 		int leeftijd = 25;    
   
-		String beschrijving = "Ik ben " + naam + " en ik ben " + leeftijd + " jaar oud. Mij   n hobby's zijn: Programmeren en voetbal.";    
+		String beschrijving = "Ik ben " + naam + " en ik ben " + leeftijd + " jaar oud. Mijn hobby's zijn: Programmeren en voetbal.";    
   
 		System.out.println(beschrijving);    
 	}    
