@@ -3,7 +3,7 @@ public class MyClass {
 			
 		String array[] = {"Oude gele speelgoedauto", "Oranje speelgoedauto", "Rode speelgoedauto"};    
 			
-		for(String speelgoedauto: array) {    
+		for(String speelgoedauto : array) {    
 			System.out.println(speelgoedauto);    
 		}    
 	}    
