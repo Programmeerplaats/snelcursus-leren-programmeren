@@ -6,7 +6,7 @@ public class MyClass {
 		switch (cijferNederlands)  
 		{  
 			case 1:  
-				System.out.println("Je hebt er niet veel van gebakken, dit kan echt bete  r!");  
+				System.out.println("Je hebt er niet veel van gebakken, dit kan echt beter!");  
 				break;  
 			case 2:  
 				System.out.println("Dit is absoluut te laag, je kan veel beter!");  
@@ -21,7 +21,7 @@ public class MyClass {
 				System.out.println("Je hebt maar net een onvoldoende gehaald, met iets meer inzet zit je aan een voldoende.");  
 				break;  
 			case 6:  
-				System.out.println("Je hebt een voldoende! Probeer de volgende keer wel         wat meer te oefenen om zo een hoger cijfer te halen.");  
+				System.out.println("Je hebt een voldoende! Probeer de volgende keer wel wat meer te oefenen om zo een hoger cijfer te halen.");  
 				break;  
 			case 7:  
 				System.out.println("Keurig! Je hebt het goed gedaan. Misschien volgende keer voor een nog hoger cijfer gaan?");  
