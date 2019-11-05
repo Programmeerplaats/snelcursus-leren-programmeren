@@ -7,7 +7,7 @@ public class MyClass {
 			System.out.println("De variabele is leeg");  
 		}  
 		else {  
-			System.out.println("De variabele heeft wel een waarde!");  
+			System.out.println("De variabele is wel gevuld!");  
 		}  
 	}  
 }
