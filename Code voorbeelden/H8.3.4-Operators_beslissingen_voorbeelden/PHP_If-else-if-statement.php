@@ -15,7 +15,7 @@
 		echo "Trek je zomerkleren maar aan!";  
 	}  
 	else {  
-		echo "Momenteel kunnen we u geen kleding advies geven op basis van de temperatuur.";  
+		echo "Momenteel kunnen we u geen kledingadvies geven op basis van de temperatuur.";  
 	}
 
 ?>

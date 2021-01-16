@@ -1,5 +1,5 @@
 /**  
-* Dit programma in Java geeft kleding advies 
+* Dit programma in Java geeft kledingadvies 
 * op basis van de temperatuur 
 */  
 public class MyClass {    

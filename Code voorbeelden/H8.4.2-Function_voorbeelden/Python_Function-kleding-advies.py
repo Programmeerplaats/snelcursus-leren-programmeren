@@ -10,7 +10,7 @@ def kledingAdvies(temp):
 	elif temp > 20:    
 		print("Trek je zomerkleren maar aan!");    
 	else:    
-		print("Momenteel kunnen we u geen kleding advies geven op basis van de temperatuur.");    
+		print("Momenteel kunnen we u geen kledingadvies geven op basis van de temperatuur.");    
   
   
 kledingAdvies(temperatuur);

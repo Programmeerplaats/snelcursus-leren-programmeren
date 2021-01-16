@@ -20,7 +20,7 @@ public class MyClass {
 			System.out.println("Trek je zomerkleren maar aan!");    
 		}    
 		else {    
-			System.out.println("Momenteel kunnen we u geen kleding advies geven op basis van de temperatuur.");    
+			System.out.println("Momenteel kunnen we u geen kledingadvies geven op basis van de temperatuur.");    
 		}   
 	}  
 }

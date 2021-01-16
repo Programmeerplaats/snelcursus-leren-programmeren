@@ -1,5 +1,5 @@
 """In dit programma wordt er 
-kleding advies geegeven op 
+kledingadvies gegeven op 
 basis van de temperatuur"""  
   
 # Variabele initialiseren  
@@ -20,7 +20,7 @@ def kledingAdvies(temp):
 	elif temp > 20:      
 		print("Trek je zomerkleren maar aan!");      
 	else:      
-		print("Momenteel kunnen we u geen kleding advies geven op basis van de temperatuur.");      
+		print("Momenteel kunnen we u geen kledingadvies geven op basis van de temperatuur.");      
 	
-# Funtion aanroepen met temperatuur als argument  
+# Function aanroepen met temperatuur als argument  
 kledingAdvies(temperatuur);
